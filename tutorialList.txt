@@ -1,0 +1,53 @@
+Tutorialspoint.com/index.htm
+
+Docker - Latest Technologies
+SaleForce - Latest Technologies
+Machine Learning - Machine Learning Tutorials
+Agile - Computer Science Tutorials
+AI - Computer Science Tutorials
+Basics of Computers - Computer Science Tutorials
+Cloud Computing - Computer Science Tutorials
+Cryptography - Computer Science Tutorials
+E-Commerce - Computer Science Tutorials
+HTTP - COmputer Science Tutorials
+Internet Technologies - Computer Science Tutorials
+IPv4 - Computer Science Technologies
+IPv6 - Computer Science Technologies
+Mobile Computing - COmputer Science Technologies
+Network Theory - Computer Science Technologies
+Operating Systems - COmputer Science Technologies
+SOAP - Computer Science Technologies
+AJAX - Web Development
+AWS - Web Development
+Angular (All Topics) - Web Development
+ASP.NET - Web Development
+Bootstrap4 - Web Development
+CSS - Web Development
+django - Web Development
+Google Maps - Web Development
+HTML - Web Development
+JavaScript - Web Development
+PHP - Web Development
+ReactJS - Web Development
+Ruby on Rails - Web Development
+SASS - Web Development
+TypeScript - Web Development
+Web Developers Guide - Web Development
+WordPress - Web Development
+Go - Programming Tutorials
+Node JS - Programming Languages
+Swift - Programming Languages
+Android Programming - Mobile Development
+iOS - Mobile Programming
+iOS development with Swift2 - Mobile Development
+Xamarin - Mobile Development
+SQL - Database
+MySQL - Database
+SQL Certificate - Database
+SQLite - Database
+ASP.NET Core - Microsoft
+ASP.NET MVC - Microsoft
+Entity Framework - Microsoft
+MS SQL Server - Microsoft
+
+
